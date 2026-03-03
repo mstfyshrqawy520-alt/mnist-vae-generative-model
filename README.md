@@ -1,56 +1,5 @@
 
 
-body {
-    font-family: Arial, sans-serif;
-    background: #0f172a;
-    color: #e2e8f0;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-}
-
-.container {
-    width: 85%;
-    margin: auto;
-    padding: 40px 0;
-}
-
-h1, h2 {
-    color: #38bdf8;
-}
-
-.card {
-    background: #1e293b;
-    padding: 20px;
-    border-radius: 12px;
-    margin-bottom: 25px;
-    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
-}
-
-.highlight {
-    color: #facc15;
-    font-weight: bold;
-}
-
-.code {
-    background: #0f172a;
-    padding: 10px;
-    border-radius: 8px;
-    font-family: monospace;
-    color: #22d3ee;
-}
-
-.footer {
-    text-align: center;
-    margin-top: 40px;
-    font-size: 14px;
-    color: #94a3b8;
-}
-</style>
-</head>
-
-
-
 <div class="container">
 
 <h1>🧠 MNIST Variational Autoencoder (VAE)</h1>
