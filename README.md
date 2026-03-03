@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MNIST Variational Autoencoder</title>
 
-<style>
+
 body {
     font-family: Arial, sans-serif;
     background: #0f172a;
@@ -55,7 +49,7 @@ h1, h2 {
 </style>
 </head>
 
-<body>
+
 
 <div class="container">
 
