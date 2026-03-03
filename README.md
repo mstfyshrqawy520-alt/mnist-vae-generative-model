@@ -85,7 +85,7 @@ enabling meaningful sampling and smooth interpolation.
 </div>
 
 <div class="footer">
-Built with ❤️ by AI Engineering
+Built with ❤️ by Mostafa El-Sharqawy
 </div>
 
 </div>
